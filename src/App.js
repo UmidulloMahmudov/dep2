@@ -177,7 +177,7 @@ function App() {
         <div className="section-4 d-flex">
            <div className="last">
                <p>Copyright </p>
-               <div className="circle">c</div>
+               <div className="circle">cooc</div>
                <p>Your website 2022</p>
            </div>
         </div>
